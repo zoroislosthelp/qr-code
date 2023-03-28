@@ -1,0 +1,38 @@
+.body{
+    text-align: center;
+    background-color: rgba(196, 226, 226, 0.863);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.qr{
+    margin: 10px 5px 10px ;
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+}
+
+.block{
+    background-color: white;
+    margin: 100px auto ;
+    width: 270px;
+    height: 480px;
+    border-radius: 15px;
+}
+
+h3{
+    margin: 20px;
+}
+
+h5{
+    margin: 10px;
+    color: rgba(56, 104, 105, 0.651);
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: whitesmoke;
+}
